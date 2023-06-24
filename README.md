@@ -1,4 +1,4 @@
-### Hi there 👋
+Highly skilled and motivated Python Backend Developer and Data Scientist with a proven record of designing and implementing robust and scalable backend solutions. Offering a comprehensive understanding of data structures, data science research methods, and data technologies with a knack for optimizing and automating processes to improve efficiency and accuracy. Proficient in handling complex data, delivering insights through advanced data analytics, and skilled in collaborating effectively with diverse teams. Exceptional problem-solving skills with an ability to thrive under pressure.
 
 <!--
 **itsveence/itsveence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
