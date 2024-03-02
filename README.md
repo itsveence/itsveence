@@ -11,7 +11,7 @@ Highly skilled and motivated Python Backend Developer and Data Scientist with a 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/itsveence)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/itsveence)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/itsveence)
-[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=c#)](https://github.com/itsveence)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c%23)](https://github.com/itsveence)
 
 ### ML
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/itsveence)
