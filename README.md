@@ -26,8 +26,7 @@ Highly skilled and motivated Python Backend Developer and Data Scientist with a 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/itsveence)
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/itsveence)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/itsveence)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/itsveence)
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/itsveence)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/itsveence)
 
 ### OS
