@@ -47,7 +47,7 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 [![MLflow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=mlflow)](https://github.com/itsveence)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/itsveence)
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/itsveence)
-[![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E-black?style=for-the-badge&logo=amazonaws)](https://github.com/itsveence)
+[![AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazonaws)](https://github.com/itsveence)
 [![Sagemaker](https://img.shields.io/badge/sagemaker-black?style=for-the-badge&logo=sagemaker)](https://github.com/itsveence)
 [![S3](https://img.shields.io/badge/s3-black?style=for-the-badge&logo=s3)](https://github.com/itsveence)
 
