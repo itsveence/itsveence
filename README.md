@@ -47,7 +47,7 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 [![MLflow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=mlflow)](https://github.com/itsveence)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/itsveence)
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/itsveence)
-[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)](https://github.com/itsveence)
+[![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black)](https://github.com/itsveence)
 [![Sagemaker](https://img.shields.io/badge/sagemaker-black?style=for-the-badge&logo=sagemaker)](https://github.com/itsveence)
 [![S3](https://img.shields.io/badge/s3-black?style=for-the-badge&logo=s3)](https://github.com/itsveence)
 
@@ -77,14 +77,13 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/itsveence)
 
 
-<details>
 <p align="center">
   <a href="https://github.com/itsveence">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsveence&theme=transparent" />
   </a>
-  <a href="https://github.com/itsveence">
+<!--   <a href="https://github.com/itsveence">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsveence&hide_border=true&card_width=338&theme=transparent" />
-  </a>
+  </a> -->
   <a href="https://github.com/itsveence">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsveence&theme=transparent" />
   </a>
@@ -92,25 +91,5 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsveence&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>-->
 </p>
-</details>
 
-<!--<p align="center">
-  <a href="https://github.com/itsveence">
-    <img src="https://komarev.com/ghpvc/?username=itsveence&color=blue&style=flat)" />
-  </a>
-</p>-->
 
-<!--
-**itsveence/itsveence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
