@@ -84,9 +84,9 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 <!--   <a href="https://github.com/itsveence">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsveence&hide_border=true&card_width=338&theme=transparent" />
   </a> -->
-  <a href="https://github.com/itsveence">
+<!--   <a href="https://github.com/itsveence">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsveence&theme=transparent" />
-  </a>
+  </a> -->
  <!-- <a href="https://github.com/itsveence">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsveence&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>-->
