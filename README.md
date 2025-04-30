@@ -22,7 +22,7 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 <p align="center">
 <a href="https://www.linkedin.com/in/itsveence/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsveence/" alt="itsveence"/></a>
 <a href="https://twitter.com/itsveence" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/itsveence" alt="itsveence"/></a>
-<a href="https://github.com/itsveence?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/itsveence/Projects" alt="itsveence"/></a>
+<a href="https://www.instagram.com/itsveence" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itsveence" alt="itsveence"/></a>
 
 </p>
 
