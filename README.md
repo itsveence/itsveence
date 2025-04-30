@@ -14,7 +14,7 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 ## 📈 Currently Building
 
 - **End‑to‑end ML pipelines** with Kubeflow, MLflow & Terraform.
-- **LLM fine‑tuning experiments** (LoRA/QLoRA, PEFT) for domain‑specific chatbots.
+- **LLM fine‑tuning experiments** (LoRA/QLoRA, PEFT) for domain‑specific applications.
 - **Automated infra** with GitHub Actions → Terraform → Kubernetes for zero‑touch deployments.
 
 ---
