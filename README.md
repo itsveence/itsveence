@@ -5,7 +5,7 @@
 I design, train & ship intelligent systems that **move seamlessly from the lab to production**.  
 My focus is on *robust, reproducible* ML pipelines, rock‑solid backend services, and cloud‑native deployments that scale.
 
-- 🛠️ **8 years** crafting data‑driven products—from prototypes to 24/7 services
+- 🛠️ **5 years** crafting data‑driven products—from prototypes to 24/7 services
 - 🚀 Passionate about turning research ideas into customer‑facing features, fast
 - 🤝 Thrives in cross‑functional teams and remote, async workflows
 
