@@ -38,6 +38,7 @@ My focus is on *robust, reproducible* ML pipelines, rock‑solid backend service
 ### Core ML / Data
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/itsveence)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/itsveence)
+[![Pytorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)](https://github.com/itsveence)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/itsveence)
 [![Keras](https://img.shields.io/badge/keras-black?style=for-the-badge&logo=keras)](https://github.com/itsveence)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/itsveence)
