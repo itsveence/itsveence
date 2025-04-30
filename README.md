@@ -1,4 +1,4 @@
-# Hi there, I’m **Vincent Adiasor** 👋
+# Hi there, I’m **Vincent** 👋
 
 ### Machine‑Learning & MLOps Engineer  ·  Backend Developer
 
